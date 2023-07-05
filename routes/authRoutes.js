@@ -14,4 +14,4 @@ router.post('/login', loginController);
 //LOGOUT
 router.post('/logout', logoutController);
 
-module.exports = router
+module.exports = router;
